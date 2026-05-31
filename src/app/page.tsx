@@ -114,7 +114,7 @@ export default function LandingPage() {
         },
       ]}
       avatarText="Join 10,000+ successful students!"
-      imageSrc="http://img.b2bpic.net/free-photo/school-scene-with-queer-teens_23-2150379415.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/school-scene-with-queer-teens_23-2150379415.jpg?_wi=1"
       imageAlt="Students studying diligently in a modern classroom"
       mediaAnimation="slide-up"
       marqueeItems={[
@@ -187,7 +187,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/school-scene-with-queer-teens_23-2150379415.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/school-scene-with-queer-teens_23-2150379415.jpg?_wi=2",
           imageAlt: "creative thinking brain study",
         },
         {
