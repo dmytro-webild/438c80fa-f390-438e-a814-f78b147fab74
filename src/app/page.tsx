@@ -288,6 +288,12 @@ export default function LandingPage() {
         {
           text: "Contact Us",          href: "#"},
         {
+          text: "Call: 9971623830",          href: "tel:9971623830"},
+        {
+          text: "Instagram: @vermatutorial",          href: "https://www.instagram.com/vermatutorial"},
+        {
+          text: "Email: info@example.com",          href: "mailto:info@example.com"},
+        {
           text: "Enroll Today",          href: "#"},
       ]}
     />
