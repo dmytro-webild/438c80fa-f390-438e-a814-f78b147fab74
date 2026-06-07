@@ -104,7 +104,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="About Rajiv Sir"
       description="Rajiv Sir\nDirector, VERMA TUTORIAL (V.T.)\n15+ Years of Experience\n\nExperienced educator and Director of VERMA TUTORIAL, Rajiv Sir has guided thousands of students to success for over 15 years. His dedication ensures comprehensive learning and academic excellence."
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809522808-ag4v3skr.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809522808-ag4v3skr.png?_wi=1"
       imageAlt="Rajiv Sir, Director, VERMA TUTORIAL (V.T.)"
     />
   </div>
@@ -114,7 +114,7 @@ export default function LandingPage() {
       <MediaAbout
         title="About Rajiv Sir"
         description={`Rajiv Sir\nDirector, VERMA TUTORIAL (V.T.)\n15+ Years of Experience\n\nRajiv Sir is a seasoned educator and the driving force behind VERMA TUTORIAL, dedicated to empowering students for academic excellence. With over 15 years of rich experience, he specializes in crafting comprehensive curricula and personalized strategies that foster deep understanding and strong problem-solving skills across various subjects and competitive exams. His commitment extends beyond teaching, focusing on building confidence and a robust foundation for every student's future success.`}
-        imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809522808-ag4v3skr.png"
+        imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809522808-ag4v3skr.png?_wi=2"
         imageAlt="Rajiv Sir, Director, VERMA TUTORIAL (V.T.)"
         useInvertedBackground={false}
         ariaLabel="About Rajiv Sir subsection within Courses"
