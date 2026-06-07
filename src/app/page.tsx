@@ -106,8 +106,6 @@ export default function LandingPage() {
       description="Rajiv Sir\nDirector of Verma Tour Travels (V.T.)\n15+ Years of Experience"
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809522808-ag4v3skr.png"
       imageAlt="Rajiv Sir, Director of Verma Tour Travels (V.T.)"
-      mediaPosition="left"
-      mediaClassName="w-full h-auto object-cover max-w-[80%]"
     />
   </div>
 
