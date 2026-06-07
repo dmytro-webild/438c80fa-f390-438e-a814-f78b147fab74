@@ -102,15 +102,12 @@ export default function LandingPage() {
   <div id="about" data-section="about">
       <MediaAbout
       useInvertedBackground={true}
-      title="About VERMA TUTORIAL"
-      description="For over a decade, VERMA TUTORIAL has been a beacon of academic excellence, guiding countless students towards their goals. Our experienced educators and proven methodologies ensure a nurturing yet challenging learning environment, fostering both knowledge and critical thinking skills. We are committed to empowering students to achieve their highest potential."
-      tag="Experience & Excellence"
-      buttons={[
-        {
-          text: "Learn More",          href: "#"},
-      ]}
-      imageSrc="http://img.b2bpic.net/free-photo/smiling-businesswoman-with-folded-hands-standing-near-flipchart-meeting_23-2147826597.jpg"
-      imageAlt="Group of students collaborating around a table with a teacher"
+      title="About Rajiv Sir"
+      description="Rajiv Sir\nDirector of Verma Tour Travels (V.T.)\n15+ Years of Experience"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809522808-ag4v3skr.png"
+      imageAlt="Rajiv Sir, Director of Verma Tour Travels (V.T.)"
+      mediaPosition="left"
+      mediaClassName="w-full h-auto object-cover max-w-[80%]"
     />
   </div>
 
