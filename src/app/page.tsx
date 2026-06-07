@@ -60,7 +60,7 @@ export default function LandingPage() {
       background={{
         variant: "radial-gradient"}}
       title="Unlock Your Potential with VERMA TUTORIAL"
-      description="Expert coaching for academic excellence and competitive success. Your journey to knowledge starts here."
+      description="Meet Rajiv Sir, Director of Verma Tutorials (V.T.). With over 15 years of dedicated teaching experience, Rajiv Sir has consistently guided students to academic success through structured guidance, personalized mentoring, and proven teaching methodologies. Unlock your potential and embark on your journey to knowledge and competitive success with our expert coaching."
       tag="Your Path to Success"
       buttons={[
         {
@@ -81,8 +81,8 @@ export default function LandingPage() {
           src: "http://img.b2bpic.net/free-photo/portrait-happy-pleased-african-american-blogger-holding-sandwich-smiling-camera-being-excited-taste-it-walking-across-food-festival-local-park_176420-19849.jpg",          alt: "Student 5"},
       ]}
       avatarText="Join 10,000+ successful students!"
-      imageSrc="http://img.b2bpic.net/free-photo/school-scene-with-queer-teens_23-2150379415.jpg"
-      imageAlt="Students studying diligently in a modern classroom"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EUEuqRBnlEIWiABQ51jqKM5qld/uploaded-1780809250906-qwnd87yd.png"
+      imageAlt="Rajiv Sir, Director of Verma Tutorials (V.T.)"
       mediaAnimation="slide-up"
       marqueeItems={[
         {
